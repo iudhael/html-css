@@ -1,0 +1,97 @@
+/*feuille de style acceuil*/
+body
+{
+	background-image: url("fond.png");
+	font-family:Arial, Times New Roman, Learning Curve, sans-serif;	
+	line-height:1.5;
+}
+
+header{
+	background-color:#0078d4;
+	color:black;
+	border: 8px solid black;	
+}
+
+nav{
+	
+	background-color:#DDDDDE;
+	width: 295px;
+	_border: 2px solid black;
+	margin-left:10px;
+	margin-top:10px;
+	opacity:0.5;
+	position: fixed;
+}
+
+section{
+	
+	width: 70%;
+	 border: 8px double black;
+	text-align: justify;
+	margin-left:auto; 
+	margin-top:40px;
+	
+
+	padding:20px;
+	background-color:#99C9EE;
+	
+	
+}
+
+h1{
+	font-size:xx-large;	
+}
+
+h2{
+	font-size:x-large;
+	text-align:center;
+}
+
+p{
+	font-size:moyen;
+	text-align:justify;
+	text-indent:20px;
+}
+
+a{
+	text-decoration:none;
+}
+
+.text{
+	color:blue;			
+}
+
+.menu{
+	margin-left:10px;
+}
+
+
+
+.centre{
+	text-align:center;				/*header*/
+}
+
+footer,.droite{
+	text-align:right;
+}
+
+
+.bouton{
+	
+	 background-color:#C1C1C1;
+	 border:  10px #C1C1C1 ridge;
+	 margin: 20px;
+	 
+	  cursor: pointer;			/*cursor : type de curseur;*/
+}
+.bouton:hover {
+  background-color:#0078d4; /*changer la couleur la couleur du bouton*/
+ 
+}
+
+
+
+
+
+
+

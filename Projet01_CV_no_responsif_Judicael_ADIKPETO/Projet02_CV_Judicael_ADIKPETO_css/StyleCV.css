@@ -1,0 +1,96 @@
+/*feuille de style CV*/
+body
+{
+	background-image: url("fond.png");
+	color:#0078d4;
+	background-repeat : repeat;
+	font-family:Arial, Times New Roman, Learning Curve, sans-serif;
+	line-height:1.5;
+}
+
+header{
+	background-color:#0078d4;
+	color:black;
+	text-align:center;
+
+}
+
+h1{
+	font-size:xx-large;	
+}
+
+h2{
+	font-size:x-large;
+}
+
+h3
+{
+border: 3px black ridge;
+border-radius: 50px;
+
+background-color:#0078d4;
+box-shadow: 5px 5px 0px black;
+margin-top:80px;
+margin-left:50px;
+margin-right:50px;
+}
+
+p{
+	font-size:moyen;
+}
+
+u{
+	color:black;
+}
+
+
+
+.b{
+opacity: 0.8;		/*ma photo*/
+}
+
+.marge{
+
+	width: 40%;
+
+	text-align: justify;
+													/*premier div*/
+	margin-left:390px; 
+	padding-left:50px;
+	  
+	
+	border-left: 8px solid #0078d4;
+		height:455px;
+		
+}
+
+
+div.bordur{
+	border: 6px black double;
+	margin-top:150px;					/*second div*/
+}
+
+.mage{
+	margin-left:100px;
+	margin-top:50px;				/*liste */
+	margin-bottom:50px;
+}
+
+
+.black{
+	color:black;		/* appliquer au paragraphe de education*/
+}
+
+
+.bouton{
+
+	 background-color:#C1C1C1;
+	 border:  10px #C1C1C1 ridge;
+	 margin: 20px;
+
+	  cursor: pointer;			/*cursor : type de curseur;*/
+}
+.bouton:hover {
+  background-color: #0078d4; /*changer la couleur la couleur du bouton*/
+ 
+}
