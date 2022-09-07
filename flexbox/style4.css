@@ -1,0 +1,64 @@
+#conteneur{
+	display: flex;
+	text-align:center;
+	flex-direction: column;
+			
+}
+
+#conteneur1{
+	display:flex;
+	flex-direction: column;
+	
+}
+
+#conteneur2{
+	display: flex;
+	
+		
+}
+
+.element1{
+	width:100%;
+	height:50px;
+	
+	border: 2px solid black;
+	margin-bottom:20px;
+	
+
+}
+
+.element2{
+
+	width:93%;
+	height:500px;
+	
+	border: 2px solid black;
+	margin-right:20px;
+	
+}
+
+.element3{
+	width:300px;
+	height:500px;
+	
+	border: 2px solid black;
+	
+}
+
+
+header{
+	
+	height:200px;
+	
+	border: 2px solid black;
+	margin-bottom:20px;
+}
+
+footer{
+
+	height:200px;
+	
+	border: 2px solid black;
+	margin-top:20px;
+}
+	

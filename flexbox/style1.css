@@ -1,0 +1,43 @@
+#conteneur{
+	display: flex;
+	flex-direction: column;
+	
+}
+
+#conteneur1{
+	display: flex;
+}
+
+.element1{
+	width:250px;
+	height:900px;
+	background:#F5F5DC;
+
+}
+
+.element2{
+
+	width:1000px;
+	height:900px;
+	background:#fff;
+	
+}
+
+.element3{
+	width:250px;
+	height:900px;
+	background:#F5F5DC;
+	
+}
+
+
+header{
+	height:400px;
+	background:#9ACD32;
+}
+
+footer{
+	height:400px;
+	background:#9ACD32;
+}
+	

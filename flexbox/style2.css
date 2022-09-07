@@ -1,0 +1,45 @@
+
+#conteneur0{
+	display: flex;	
+}
+
+#conteneur{
+	display: flex;
+	flex-direction:column;		
+}
+
+#conteneur1{
+	display: flex;
+	
+}
+header{	
+	height:200px;
+	background:#9ACD32;
+}
+
+footer{
+	
+	height:200px;
+	background:#9ACD32;
+}
+
+nav{
+		width:250px;
+		height:2000;
+	background:#D7E8D4;
+}
+
+.element2{
+
+	width:1000px;
+	height:1900px;
+	background:#fff;
+	
+}
+
+.element3{
+	width:250px;
+	height:1900px;
+	background:#F5F5DC;
+	
+}
